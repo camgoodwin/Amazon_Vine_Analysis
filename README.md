@@ -8,9 +8,9 @@ The purpose of the analysis is to determine if there is any bias toward more fav
 * How many Vine reviews and non-Vine reviews were there?
 There were 94 vine reviews and 40,471 non-Vine reviews. 
 
-![image](Images/paid_progarm_count.PNG)
+![image](Images/paid_program_count.PNG)
 
-![image](Images/unpaid_progarm_count.PNG)
+![image](Images/unpaid_program_count.PNG)
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 Vine reviews that were 5 stars totaled 48, while the non-Vine reviews that were 5 stars totaled 15,663. 
