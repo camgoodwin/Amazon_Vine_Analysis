@@ -7,7 +7,7 @@ The purpose of the analysis is to determine if there is any bias toward more fav
 
 * How many Vine reviews and non-Vine reviews were there?
 
-There were 94 vine reviews and 40,471 non-Vine reviews. 
+  There were 94 vine reviews and 40,471 non-Vine reviews. 
 
 ![image](Images/paid_program_count.PNG)
 
@@ -15,7 +15,7 @@ There were 94 vine reviews and 40,471 non-Vine reviews.
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-Vine reviews that were 5 stars totaled 48, while the non-Vine reviews that were 5 stars totaled 15,663. 
+  Vine reviews that were 5 stars totaled 48, while the non-Vine reviews that were 5 stars totaled 15,663. 
 
 
 ![image](Images/paid_program_5_star.PNG)
@@ -25,7 +25,7 @@ Vine reviews that were 5 stars totaled 48, while the non-Vine reviews that were 
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-The Vine reviews that were 5 stars totaled 51.06%, while the non-Vine reviews that were 5 stars totaled only 38.70%.
+  The Vine reviews that were 5 stars totaled 51.06%, while the non-Vine reviews that were 5 stars totaled only 38.70%.
 
 ![image](Images/paid_5_percent.PNG)
 
